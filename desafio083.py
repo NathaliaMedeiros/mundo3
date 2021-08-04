@@ -13,6 +13,7 @@ direita = 0
 
 expressao = input('Digite a expressão: ')
 
+
 for i in expressao:
     if i == '(':
         esquerda += 1
